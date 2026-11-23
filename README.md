@@ -25,6 +25,8 @@ Kɔradin is principle 4 in practice.
 - **Nasals:** a nasal mark before an opening syllable (n-, m-, ng-), and a mark under the sign for a closing nasal (-n, -m, -ng).
 - **Consonant clusters (CRV):** fra, bra, tra and similar take a filler vowel, ɔ before back vowels and ɛ before front vowels: fra → fɔ-ra.
 - **Fante:** ts and dz are written with the t and d families (dzidzi → di-di).
+- **Codas:** a consonant closing a syllable before another sign takes the same filler (dawurbɔ → da-wu-rɔ-bɔ). A final consonant takes ɛ (tsitsir → ti-ti-rɛ, bayir → ba-yi-rɛ).
+- **Doubled nasals:** mm before a consonant is written once, as a closing mark (yɛmmpɛ → yɛm-pɛ). Before a vowel the opening mark stays (mma → m-ma).
 
 See `specimens/syllable-chart.png` for every sign.
 
