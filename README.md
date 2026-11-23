@@ -34,6 +34,14 @@ Kɔradin is principle 4 in practice.
 
 See `specimens/syllable-chart.png` for every sign.
 
+## Planned (Kɔradin orthography)
+
+Kɔradin will get its own orthography rather than mirroring Latin Akan spelling:
+
+- **Spelling by sound, not by Latin:** asɛmpɔw is a-sɛm-pɔ-ɔ for now and will become a-sɛm-pɔ-o. Latin homographs can be told apart in Kɔradin, and the reverse also holds (mbra's spelling stays open).
+- **Reduplication sign:** one mark after a sign means "say it again": ntomtom → n-tom + sign, ahwɛhwɛ → a-hwɛ + sign.
+- **Elision:** written in full (n'asɛm → ne asɛm / no asɛm). Reference: Abakah (2004), *Elision in Fante* (`references/`).
+
 ## Contents
 
 | Folder | What |
