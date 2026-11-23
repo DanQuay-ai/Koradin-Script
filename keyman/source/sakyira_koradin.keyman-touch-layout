@@ -1,0 +1,5114 @@
+{
+ "phone": {
+  "font": "Sakyira Text",
+  "fontsize": "1.6em",
+  "layer": [
+   {
+    "id": "default",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_H_H",
+        "text": "ha",
+        "width": "100"
+       },
+       {
+        "id": "T_H_W",
+        "text": "wa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_Y",
+        "text": "ya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_P",
+        "text": "pa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_B",
+        "text": "ba",
+        "width": "100"
+       },
+       {
+        "id": "T_H_KP",
+        "text": "kpa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_GB",
+        "text": "gba",
+        "width": "100"
+       },
+       {
+        "id": "T_H_T",
+        "text": "ta",
+        "width": "100"
+       },
+       {
+        "id": "T_H_KY",
+        "text": "kya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_TW",
+        "text": "twa",
+        "width": "100"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "T_H_D",
+        "text": "da",
+        "width": "100"
+       },
+       {
+        "id": "T_H_J",
+        "text": "ja",
+        "width": "100"
+       },
+       {
+        "id": "T_H_GY",
+        "text": "gya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_DW",
+        "text": "dwa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_K",
+        "text": "ka",
+        "width": "100"
+       },
+       {
+        "id": "T_H_G",
+        "text": "ga",
+        "width": "100"
+       },
+       {
+        "id": "T_H_KW",
+        "text": "kwa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_S",
+        "text": "sa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_Z",
+        "text": "za",
+        "width": "100"
+       },
+       {
+        "id": "T_H_HY",
+        "text": "hya",
+        "width": "100"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "key": [
+       {
+        "id": "T_H_F",
+        "text": "fa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_V",
+        "text": "va",
+        "width": "100"
+       },
+       {
+        "id": "T_H_HW",
+        "text": "hwa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_R",
+        "text": "ra",
+        "width": "100"
+       },
+       {
+        "id": "T_H_L",
+        "text": "la",
+        "width": "100"
+       },
+       {
+        "id": "T_H_N",
+        "text": "na",
+        "width": "100"
+       },
+       {
+        "id": "T_H_M",
+        "text": "ma",
+        "width": "100"
+       },
+       {
+        "id": "T_H_NY",
+        "text": "nya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_MY",
+        "text": "mya",
+        "width": "100"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "key": [
+       {
+        "id": "T_V_A",
+        "text": "a",
+        "width": "100"
+       },
+       {
+        "id": "T_V_E",
+        "text": "e",
+        "width": "100"
+       },
+       {
+        "id": "T_V_E3",
+        "text": "ɛ",
+        "width": "100"
+       },
+       {
+        "id": "T_V_I",
+        "text": "i",
+        "width": "100"
+       },
+       {
+        "id": "T_V_O",
+        "text": "o",
+        "width": "100"
+       },
+       {
+        "id": "T_V_O3",
+        "text": "ɔ",
+        "width": "100"
+       },
+       {
+        "id": "T_V_U",
+        "text": "u",
+        "width": "100"
+       },
+       {
+        "id": "T_NAS_N",
+        "text": "n",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_NAS_M",
+        "text": "m",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_NAS_NG",
+        "text": "ng",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_PUNC",
+        "text": ".,!?",
+        "width": "100",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_SPACE",
+        "text": "",
+        "width": "500"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_h",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_HA",
+        "text": "ha",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HE",
+        "text": "he",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HE3",
+        "text": "hɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HI",
+        "text": "hi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HO",
+        "text": "ho",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HO3",
+        "text": "hɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HU",
+        "text": "hu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← h",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_w",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_WA",
+        "text": "wa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WE",
+        "text": "we",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WE3",
+        "text": "wɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WI",
+        "text": "wi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WO",
+        "text": "wo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WO3",
+        "text": "wɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WU",
+        "text": "wu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← w",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_y",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_YA",
+        "text": "ya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YE",
+        "text": "ye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YE3",
+        "text": "yɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YI",
+        "text": "yi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YO",
+        "text": "yo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YO3",
+        "text": "yɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YU",
+        "text": "yu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← y",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_p",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_PA",
+        "text": "pa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PE",
+        "text": "pe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PE3",
+        "text": "pɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PI",
+        "text": "pi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PO",
+        "text": "po",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PO3",
+        "text": "pɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PU",
+        "text": "pu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← p",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_b",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_BA",
+        "text": "ba",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BE",
+        "text": "be",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BE3",
+        "text": "bɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BI",
+        "text": "bi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BO",
+        "text": "bo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BO3",
+        "text": "bɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BU",
+        "text": "bu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← b",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_kp",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KPA",
+        "text": "kpa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPE",
+        "text": "kpe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPE3",
+        "text": "kpɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPI",
+        "text": "kpi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPO",
+        "text": "kpo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPO3",
+        "text": "kpɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPU",
+        "text": "kpu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← kp",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_gb",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_GBA",
+        "text": "gba",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBE",
+        "text": "gbe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBE3",
+        "text": "gbɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBI",
+        "text": "gbi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBO",
+        "text": "gbo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBO3",
+        "text": "gbɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBU",
+        "text": "gbu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← gb",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_t",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_TA",
+        "text": "ta",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TE",
+        "text": "te",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TE3",
+        "text": "tɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TI",
+        "text": "ti",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TO",
+        "text": "to",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TO3",
+        "text": "tɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TU",
+        "text": "tu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← t",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_ky",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KYA",
+        "text": "kya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYE",
+        "text": "kye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYE3",
+        "text": "kyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYI",
+        "text": "kyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYO",
+        "text": "kyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYO3",
+        "text": "kyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYU",
+        "text": "kyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← ky",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_tw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_TWA",
+        "text": "twa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWE",
+        "text": "twe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWE3",
+        "text": "twɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWI",
+        "text": "twi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWO",
+        "text": "two",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWO3",
+        "text": "twɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWU",
+        "text": "twu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← tw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_d",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_DA",
+        "text": "da",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DE",
+        "text": "de",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DE3",
+        "text": "dɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DI",
+        "text": "di",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DO",
+        "text": "do",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DO3",
+        "text": "dɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DU",
+        "text": "du",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← d",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_j",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_JA",
+        "text": "ja",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JE",
+        "text": "je",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JE3",
+        "text": "jɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JI",
+        "text": "ji",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JO",
+        "text": "jo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JO3",
+        "text": "jɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JU",
+        "text": "ju",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← j",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_gy",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_GYA",
+        "text": "gya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYE",
+        "text": "gye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYE3",
+        "text": "gyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYI",
+        "text": "gyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYO",
+        "text": "gyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYO3",
+        "text": "gyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYU",
+        "text": "gyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← gy",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_dw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_DWA",
+        "text": "dwa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWE",
+        "text": "dwe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWE3",
+        "text": "dwɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWI",
+        "text": "dwi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWO",
+        "text": "dwo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWO3",
+        "text": "dwɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWU",
+        "text": "dwu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← dw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_k",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KA",
+        "text": "ka",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KE",
+        "text": "ke",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KE3",
+        "text": "kɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KI",
+        "text": "ki",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KO",
+        "text": "ko",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KO3",
+        "text": "kɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KU",
+        "text": "ku",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← k",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_g",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_GA",
+        "text": "ga",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GE",
+        "text": "ge",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GE3",
+        "text": "gɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GI",
+        "text": "gi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GO",
+        "text": "go",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GO3",
+        "text": "gɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GU",
+        "text": "gu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← g",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_kw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KWA",
+        "text": "kwa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KWE",
+        "text": "kwe",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← kw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_s",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_SA",
+        "text": "sa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SE",
+        "text": "se",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SE3",
+        "text": "sɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SI",
+        "text": "si",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SO",
+        "text": "so",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SO3",
+        "text": "sɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SU",
+        "text": "su",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← s",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_z",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_ZA",
+        "text": "za",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZE",
+        "text": "ze",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZE3",
+        "text": "zɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZI",
+        "text": "zi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZO",
+        "text": "zo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZO3",
+        "text": "zɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZU",
+        "text": "zu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← z",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_hy",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_HYA",
+        "text": "hya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYE",
+        "text": "hye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYE3",
+        "text": "hyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYI",
+        "text": "hyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYO",
+        "text": "hyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYO3",
+        "text": "hyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYU",
+        "text": "hyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← hy",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_f",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_FA",
+        "text": "fa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FE",
+        "text": "fe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FE3",
+        "text": "fɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FI",
+        "text": "fi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FO",
+        "text": "fo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FO3",
+        "text": "fɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FU",
+        "text": "fu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← f",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_v",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_VA",
+        "text": "va",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VE",
+        "text": "ve",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VE3",
+        "text": "vɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VI",
+        "text": "vi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VO",
+        "text": "vo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VO3",
+        "text": "vɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VU",
+        "text": "vu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← v",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_hw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_HWA",
+        "text": "hwa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWE",
+        "text": "hwe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWE3",
+        "text": "hwɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWI",
+        "text": "hwi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWO",
+        "text": "hwo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWO3",
+        "text": "hwɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWU",
+        "text": "hwu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← hw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_r",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_RA",
+        "text": "ra",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RE",
+        "text": "re",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RE3",
+        "text": "rɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RI",
+        "text": "ri",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RO",
+        "text": "ro",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RO3",
+        "text": "rɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RU",
+        "text": "ru",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← r",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_l",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_LA",
+        "text": "la",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LE",
+        "text": "le",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LE3",
+        "text": "lɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LI",
+        "text": "li",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LO",
+        "text": "lo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LO3",
+        "text": "lɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LU",
+        "text": "lu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← l",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_n",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_NA",
+        "text": "na",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NE",
+        "text": "ne",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NE3",
+        "text": "nɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NI",
+        "text": "ni",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NO",
+        "text": "no",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NO3",
+        "text": "nɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NU",
+        "text": "nu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← n",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_m",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_MA",
+        "text": "ma",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ME",
+        "text": "me",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ME3",
+        "text": "mɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MI",
+        "text": "mi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MO",
+        "text": "mo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MO3",
+        "text": "mɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MU",
+        "text": "mu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← m",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_ny",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_NYA",
+        "text": "nya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYE",
+        "text": "nye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYE3",
+        "text": "nyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYI",
+        "text": "nyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYO",
+        "text": "nyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYO3",
+        "text": "nyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYU",
+        "text": "nyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← ny",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_my",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_MYA",
+        "text": "mya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYE",
+        "text": "mye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYE3",
+        "text": "myɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYI",
+        "text": "myi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYO",
+        "text": "myo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYO3",
+        "text": "myɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYU",
+        "text": "myu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← my",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "punc",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_P_DOT",
+        "text": ".",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_COM",
+        "text": ",",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_EXC",
+        "text": "!",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_Q",
+        "text": "?",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_COL",
+        "text": ":",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_SC",
+        "text": ";",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_AP",
+        "text": "'",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_DQ",
+        "text": "\"",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_DASH",
+        "text": "-",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← back",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_SPACE",
+        "text": "",
+        "width": "400"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "tablet": {
+  "font": "Sakyira Text",
+  "fontsize": "1.6em",
+  "layer": [
+   {
+    "id": "default",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_H_H",
+        "text": "ha",
+        "width": "100"
+       },
+       {
+        "id": "T_H_W",
+        "text": "wa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_Y",
+        "text": "ya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_P",
+        "text": "pa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_B",
+        "text": "ba",
+        "width": "100"
+       },
+       {
+        "id": "T_H_KP",
+        "text": "kpa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_GB",
+        "text": "gba",
+        "width": "100"
+       },
+       {
+        "id": "T_H_T",
+        "text": "ta",
+        "width": "100"
+       },
+       {
+        "id": "T_H_KY",
+        "text": "kya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_TW",
+        "text": "twa",
+        "width": "100"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "T_H_D",
+        "text": "da",
+        "width": "100"
+       },
+       {
+        "id": "T_H_J",
+        "text": "ja",
+        "width": "100"
+       },
+       {
+        "id": "T_H_GY",
+        "text": "gya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_DW",
+        "text": "dwa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_K",
+        "text": "ka",
+        "width": "100"
+       },
+       {
+        "id": "T_H_G",
+        "text": "ga",
+        "width": "100"
+       },
+       {
+        "id": "T_H_KW",
+        "text": "kwa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_S",
+        "text": "sa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_Z",
+        "text": "za",
+        "width": "100"
+       },
+       {
+        "id": "T_H_HY",
+        "text": "hya",
+        "width": "100"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "key": [
+       {
+        "id": "T_H_F",
+        "text": "fa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_V",
+        "text": "va",
+        "width": "100"
+       },
+       {
+        "id": "T_H_HW",
+        "text": "hwa",
+        "width": "100"
+       },
+       {
+        "id": "T_H_R",
+        "text": "ra",
+        "width": "100"
+       },
+       {
+        "id": "T_H_L",
+        "text": "la",
+        "width": "100"
+       },
+       {
+        "id": "T_H_N",
+        "text": "na",
+        "width": "100"
+       },
+       {
+        "id": "T_H_M",
+        "text": "ma",
+        "width": "100"
+       },
+       {
+        "id": "T_H_NY",
+        "text": "nya",
+        "width": "100"
+       },
+       {
+        "id": "T_H_MY",
+        "text": "mya",
+        "width": "100"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "key": [
+       {
+        "id": "T_V_A",
+        "text": "a",
+        "width": "100"
+       },
+       {
+        "id": "T_V_E",
+        "text": "e",
+        "width": "100"
+       },
+       {
+        "id": "T_V_E3",
+        "text": "ɛ",
+        "width": "100"
+       },
+       {
+        "id": "T_V_I",
+        "text": "i",
+        "width": "100"
+       },
+       {
+        "id": "T_V_O",
+        "text": "o",
+        "width": "100"
+       },
+       {
+        "id": "T_V_O3",
+        "text": "ɔ",
+        "width": "100"
+       },
+       {
+        "id": "T_V_U",
+        "text": "u",
+        "width": "100"
+       },
+       {
+        "id": "T_NAS_N",
+        "text": "n",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_NAS_M",
+        "text": "m",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_NAS_NG",
+        "text": "ng",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_PUNC",
+        "text": ".,!?",
+        "width": "100",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_SPACE",
+        "text": "",
+        "width": "500"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_h",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_HA",
+        "text": "ha",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HE",
+        "text": "he",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HE3",
+        "text": "hɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HI",
+        "text": "hi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HO",
+        "text": "ho",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HO3",
+        "text": "hɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HU",
+        "text": "hu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← h",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_w",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_WA",
+        "text": "wa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WE",
+        "text": "we",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WE3",
+        "text": "wɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WI",
+        "text": "wi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WO",
+        "text": "wo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WO3",
+        "text": "wɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_WU",
+        "text": "wu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← w",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_y",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_YA",
+        "text": "ya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YE",
+        "text": "ye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YE3",
+        "text": "yɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YI",
+        "text": "yi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YO",
+        "text": "yo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YO3",
+        "text": "yɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_YU",
+        "text": "yu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← y",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_p",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_PA",
+        "text": "pa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PE",
+        "text": "pe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PE3",
+        "text": "pɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PI",
+        "text": "pi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PO",
+        "text": "po",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PO3",
+        "text": "pɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_PU",
+        "text": "pu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← p",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_b",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_BA",
+        "text": "ba",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BE",
+        "text": "be",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BE3",
+        "text": "bɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BI",
+        "text": "bi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BO",
+        "text": "bo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BO3",
+        "text": "bɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_BU",
+        "text": "bu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← b",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_kp",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KPA",
+        "text": "kpa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPE",
+        "text": "kpe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPE3",
+        "text": "kpɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPI",
+        "text": "kpi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPO",
+        "text": "kpo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPO3",
+        "text": "kpɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KPU",
+        "text": "kpu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← kp",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_gb",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_GBA",
+        "text": "gba",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBE",
+        "text": "gbe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBE3",
+        "text": "gbɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBI",
+        "text": "gbi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBO",
+        "text": "gbo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBO3",
+        "text": "gbɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GBU",
+        "text": "gbu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← gb",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_t",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_TA",
+        "text": "ta",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TE",
+        "text": "te",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TE3",
+        "text": "tɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TI",
+        "text": "ti",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TO",
+        "text": "to",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TO3",
+        "text": "tɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TU",
+        "text": "tu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← t",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_ky",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KYA",
+        "text": "kya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYE",
+        "text": "kye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYE3",
+        "text": "kyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYI",
+        "text": "kyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYO",
+        "text": "kyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYO3",
+        "text": "kyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KYU",
+        "text": "kyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← ky",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_tw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_TWA",
+        "text": "twa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWE",
+        "text": "twe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWE3",
+        "text": "twɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWI",
+        "text": "twi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWO",
+        "text": "two",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWO3",
+        "text": "twɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_TWU",
+        "text": "twu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← tw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_d",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_DA",
+        "text": "da",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DE",
+        "text": "de",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DE3",
+        "text": "dɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DI",
+        "text": "di",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DO",
+        "text": "do",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DO3",
+        "text": "dɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DU",
+        "text": "du",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← d",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_j",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_JA",
+        "text": "ja",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JE",
+        "text": "je",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JE3",
+        "text": "jɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JI",
+        "text": "ji",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JO",
+        "text": "jo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JO3",
+        "text": "jɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_JU",
+        "text": "ju",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← j",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_gy",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_GYA",
+        "text": "gya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYE",
+        "text": "gye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYE3",
+        "text": "gyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYI",
+        "text": "gyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYO",
+        "text": "gyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYO3",
+        "text": "gyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GYU",
+        "text": "gyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← gy",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_dw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_DWA",
+        "text": "dwa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWE",
+        "text": "dwe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWE3",
+        "text": "dwɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWI",
+        "text": "dwi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWO",
+        "text": "dwo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWO3",
+        "text": "dwɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_DWU",
+        "text": "dwu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← dw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_k",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KA",
+        "text": "ka",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KE",
+        "text": "ke",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KE3",
+        "text": "kɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KI",
+        "text": "ki",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KO",
+        "text": "ko",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KO3",
+        "text": "kɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KU",
+        "text": "ku",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← k",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_g",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_GA",
+        "text": "ga",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GE",
+        "text": "ge",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GE3",
+        "text": "gɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GI",
+        "text": "gi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GO",
+        "text": "go",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GO3",
+        "text": "gɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_GU",
+        "text": "gu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← g",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_kw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_KWA",
+        "text": "kwa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_KWE",
+        "text": "kwe",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← kw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_s",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_SA",
+        "text": "sa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SE",
+        "text": "se",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SE3",
+        "text": "sɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SI",
+        "text": "si",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SO",
+        "text": "so",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SO3",
+        "text": "sɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_SU",
+        "text": "su",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← s",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_z",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_ZA",
+        "text": "za",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZE",
+        "text": "ze",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZE3",
+        "text": "zɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZI",
+        "text": "zi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZO",
+        "text": "zo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZO3",
+        "text": "zɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ZU",
+        "text": "zu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← z",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_hy",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_HYA",
+        "text": "hya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYE",
+        "text": "hye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYE3",
+        "text": "hyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYI",
+        "text": "hyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYO",
+        "text": "hyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYO3",
+        "text": "hyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HYU",
+        "text": "hyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← hy",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_f",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_FA",
+        "text": "fa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FE",
+        "text": "fe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FE3",
+        "text": "fɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FI",
+        "text": "fi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FO",
+        "text": "fo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FO3",
+        "text": "fɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_FU",
+        "text": "fu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← f",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_v",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_VA",
+        "text": "va",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VE",
+        "text": "ve",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VE3",
+        "text": "vɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VI",
+        "text": "vi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VO",
+        "text": "vo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VO3",
+        "text": "vɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_VU",
+        "text": "vu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← v",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_hw",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_HWA",
+        "text": "hwa",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWE",
+        "text": "hwe",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWE3",
+        "text": "hwɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWI",
+        "text": "hwi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWO",
+        "text": "hwo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWO3",
+        "text": "hwɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_HWU",
+        "text": "hwu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← hw",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_r",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_RA",
+        "text": "ra",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RE",
+        "text": "re",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RE3",
+        "text": "rɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RI",
+        "text": "ri",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RO",
+        "text": "ro",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RO3",
+        "text": "rɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_RU",
+        "text": "ru",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← r",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_l",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_LA",
+        "text": "la",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LE",
+        "text": "le",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LE3",
+        "text": "lɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LI",
+        "text": "li",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LO",
+        "text": "lo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LO3",
+        "text": "lɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_LU",
+        "text": "lu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← l",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_n",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_NA",
+        "text": "na",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NE",
+        "text": "ne",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NE3",
+        "text": "nɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NI",
+        "text": "ni",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NO",
+        "text": "no",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NO3",
+        "text": "nɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NU",
+        "text": "nu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← n",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_m",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_MA",
+        "text": "ma",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ME",
+        "text": "me",
+        "width": "120"
+       },
+       {
+        "id": "T_S_ME3",
+        "text": "mɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MI",
+        "text": "mi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MO",
+        "text": "mo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MO3",
+        "text": "mɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MU",
+        "text": "mu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← m",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_ny",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_NYA",
+        "text": "nya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYE",
+        "text": "nye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYE3",
+        "text": "nyɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYI",
+        "text": "nyi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYO",
+        "text": "nyo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYO3",
+        "text": "nyɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_NYU",
+        "text": "nyu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← ny",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f_my",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_S_MYA",
+        "text": "mya",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYE",
+        "text": "mye",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYE3",
+        "text": "myɛ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYI",
+        "text": "myi",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYO",
+        "text": "myo",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYO3",
+        "text": "myɔ",
+        "width": "120"
+       },
+       {
+        "id": "T_S_MYU",
+        "text": "myu",
+        "width": "120"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← my",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "punc",
+    "row": [
+     {
+      "id": 1,
+      "key": [
+       {
+        "id": "T_P_DOT",
+        "text": ".",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_COM",
+        "text": ",",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_EXC",
+        "text": "!",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_Q",
+        "text": "?",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_COL",
+        "text": ":",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_SC",
+        "text": ";",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_AP",
+        "text": "'",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_DQ",
+        "text": "\"",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "T_P_DASH",
+        "text": "-",
+        "width": "100",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "key": [
+       {
+        "id": "K_LOPT",
+        "text": "*Menu*",
+        "width": "120",
+        "sp": "1"
+       },
+       {
+        "id": "T_BACK",
+        "text": "← back",
+        "width": "200",
+        "sp": "1",
+        "font": "sans-serif",
+        "fontsize": "0.8em"
+       },
+       {
+        "id": "K_SPACE",
+        "text": "",
+        "width": "400"
+       },
+       {
+        "id": "K_BKSP",
+        "text": "*BkSp*",
+        "width": "150",
+        "sp": "1"
+       },
+       {
+        "id": "K_ENTER",
+        "text": "*Enter*",
+        "width": "150",
+        "sp": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
