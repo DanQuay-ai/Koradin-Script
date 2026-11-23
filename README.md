@@ -26,6 +26,10 @@ Kɔradin is principle 4 in practice.
 - **Consonant clusters (CRV):** fra, bra, tra and similar take a filler vowel, ɔ before back vowels and ɛ before front vowels: fra → fɔ-ra.
 - **Fante:** ts and dz are written with the t and d families (dzidzi → di-di).
 - **Codas:** a consonant closing a syllable before another sign takes the same filler (dawurbɔ → da-wu-rɔ-bɔ). A final consonant takes ɛ (tsitsir → ti-ti-rɛ, bayir → ba-yi-rɛ).
+- **Lone w:** written with the ɔ sign (asɛmpɔw → a-sɛm-pɔ-ɔ, gyinabew → gyi-na-be-ɔ).
+- **Lone ts / dz:** written like t / d with the filler (tstsew → tɛ-te-ɔ, pɛrpɛrdzi → pɛ-rɛ-pɛ-rɛ-di).
+- **Elision:** write elided forms in full (n'asɛm → ne asɛm or no asɛm).
+- **Filler choice:** ɔ or ɛ by default; some words take the echo vowel instead (mbra → m-ba-ra). These are listed word by word in the Kɔradin Standard.
 - **Doubled nasals:** mm before a consonant is written once, as a closing mark (yɛmmpɛ → yɛm-pɛ). Before a vowel the opening mark stays (mma → m-ma).
 
 See `specimens/syllable-chart.png` for every sign.
