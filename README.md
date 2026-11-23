@@ -49,6 +49,7 @@ Kɔradin will get its own orthography rather than mirroring Latin Akan spelling:
 | `fonts/` | Sakyira Text (regular) and Sakyira Display (bold slanted), OpenType fonts that turn typed Latin Akan into Kɔradin signs |
 | `keyman/` | Kɔradin (Sakyira) keyboard for Keyman on Windows, macOS, Linux, iOS and Android, with an adaptive phone layout (one key per family) |
 | `specimens/` | Syllable chart and specimens |
+| `standard/` | Kɔradin Standard v1.0 (PDF and source) |
 | `UNICODE.md` | The path to Unicode encoding and how evidence is collected |
 | `unicode-evidence/` | Dated evidence of Kɔradin in use |
 
