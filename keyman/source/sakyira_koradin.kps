@@ -5,7 +5,7 @@
     <Name URL="">Kɔradin (Sakyira)</Name>
     <Copyright URL="">© 2026 Ntirikwaamaa, Merankron</Copyright>
     <Author URL="">Ntirikwaamaa (Merankron)</Author>
-    <Version URL="">0.7</Version>
+    <Version URL="">0.8</Version>
     <Description URL="">Type Twi and other Akan dialects in Latin letters and read them in Kɔradin, the phonetic Akan syllabary created by Ntirikwaamaa. Ships with the Sakyira Text and Sakyira Display fonts, which form each consonant-vowel syllable into one Kɔradin sign, place nasal marks, and fill clusters automatically (fra becomes fɔ-ra). Works with AZERTY, QWERTY and other layouts. Keys: x types ɛ, c types ɔ (press twice for the Latin letter).</Description>
   </Info>
   <Files>
@@ -16,7 +16,7 @@
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Kɔradin (Sakyira)</Name><ID>sakyira_koradin</ID><Version>0.7</Version>
+      <Name>Kɔradin (Sakyira)</Name><ID>sakyira_koradin</ID><Version>0.8</Version>
       <OSKFont>SakyiraText-Regular.otf</OSKFont><DisplayFont>SakyiraText-Regular.otf</DisplayFont>
       <Languages><Language ID="tw">Twi</Language></Languages>
     </Keyboard>
