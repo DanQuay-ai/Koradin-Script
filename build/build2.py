@@ -132,7 +132,8 @@ def build(src,fam,sty,slant,gap,space,out):
         Q=pathops.Path();P.draw(TransformPen(Q.getPen(),(f,0,0,f,cx*(1-f),0)));return Q
     def dupg(g0,kind):
         base=g0.split('.')[0];nas=g0.split('.')[1] if '.' in g0 else None
-        Q=short(base);nb=paths[base].bounds;top=nb[3]
+        Q0=short(base);qb=Q0.bounds;top=CAP;T=CAP-tk*2.1;sy=T/max(qb[3],1)
+        Q=pathops.Path();Q0.draw(TransformPen(Q.getPen(),(1,0,sh*(sy-1),sy,0,0)))
         if nas:
             paths[nas+'_close'].draw(TransformPen(Q.getPen(),(1,0,0,1,anchors[base],0)))
         sb=Q.bounds;x0=sb[0];x1=(adv[g0]+gap/2) if kind=='L' else sb[2]
@@ -141,6 +142,8 @@ def build(src,fam,sty,slant,gap,space,out):
         try:Q.simplify(fix_winding=True)
         except Exception:pass
         nm=g0+'.dup'+kind;pen=T2CharStringPen(adv[g0],None);Q.draw(pen);glyphs[nm]=pen.getCharString();adv[nm]=adv[g0];order.append(nm);return nm
+    import statistics
+    CAP=statistics.median(paths[g].bounds[3] for g in order if g.endswith('_liga') and g in paths and paths[g].bounds[3]>0)
     BASES=[g for g in order if g.endswith('_liga') and g in anchors]+[v for v in VOW if v in anchors]
     ALLS=BASES+list(NASG.values())
     D1={g:dupg(g,'') for g in ALLS}
