@@ -1,7 +1,7 @@
 store(&VERSION) '17.0'
 store(&NAME) 'Kɔradin (Sakyira)'
 store(&COPYRIGHT) '© 2026 Ntirikwaamaa, Merankron'
-store(&KEYBOARDVERSION) '0.8'
+store(&KEYBOARDVERSION) '0.9'
 store(&LAYOUTFILE) 'sakyira_koradin.keyman-touch-layout'
 store(&TARGETS) 'any'
 store(&MNEMONICLAYOUT) '1'
