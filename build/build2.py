@@ -23,6 +23,79 @@ def P_svg(fn,flip=False):
         b=P.bounds;Q=pathops.Path();P.draw(TransformPen(Q.getPen(),(1,0,0,-1,0,b[1]+b[3])));P=Q
     return P
 OVR_D={'zeopen.liga':'ovr/zeps.svg','hyeopen.liga':('ovr/ze.svg',True),'hye.liga':'ovr/hye.svg','ze.liga':'ovr/ze.svg','nyu.liga':'ovr/nyu.svg','niu.liga':'ovr/nyu.svg'}
+
+import shapely
+from shapely.geometry import Polygon
+from shapely.ops import unary_union
+def _flat(P,steps=10):
+    from fontTools.pens.basePen import BasePen
+    class F(BasePen):
+        def __init__(s):super().__init__(None);s.cs=[];s.c=[]
+        def _moveTo(s,p):s.c=[p]
+        def _lineTo(s,p):s.c.append(p)
+        def _curveToOne(s,a,b,c):
+            p0=s.c[-1]
+            for i in range(1,steps+1):
+                t=i/steps;u=1-t
+                s.c.append((u**3*p0[0]+3*u*u*t*a[0]+3*u*t*t*b[0]+t**3*c[0],u**3*p0[1]+3*u*u*t*a[1]+3*u*t*t*b[1]+t**3*c[1]))
+        def _qCurveToOne(s,a,b):
+            p0=s.c[-1]
+            for i in range(1,steps+1):
+                t=i/steps;u=1-t
+                s.c.append((u*u*p0[0]+2*u*t*a[0]+t*t*b[0],u*u*p0[1]+2*u*t*a[1]+t*t*b[1]))
+        def _closePath(s):
+            if len(s.c)>2:s.cs.append(s.c)
+            s.c=[]
+        _endPath=_closePath
+    f=F();P.draw(f);return f.cs
+def close_notches(P,r):
+    """fill small notches (morphological closing); keeps sharp corners (mitre joins)"""
+    cs=_flat(P);g=None
+    for c in cs:
+        pg=Polygon(c).buffer(0)
+        g=pg if g is None else g.symmetric_difference(pg)
+    if g is None:return P
+    g=g.buffer(-r,join_style=2,mitre_limit=4).buffer(r,join_style=2,mitre_limit=4)  # opening: removes small nubs/steps
+    g=g.buffer(r,join_style=2,mitre_limit=4).buffer(-r,join_style=2,mitre_limit=4)  # closing: fills small notches
+    g=g.simplify(r*0.6,preserve_topology=True)  # drops tiny steps left at cut terminals
+    Q=pathops.Path();pn=Q.getPen()
+    for poly in getattr(g,'geoms',[g]):
+        for ring in [poly.exterior,*poly.interiors]:
+            pts=list(ring.coords)[:-1]
+            if len(pts)<3:continue
+            pn.moveTo(pts[0])
+            for p in pts[1:]:pn.lineTo(p)
+            pn.closePath()
+    try:Q.simplify(fix_winding=True)
+    except Exception:pass
+    return Q
+def drop_steps(P,tol):
+    '''remove tiny straight segments (steps/nubs left where a cut terminal meets the stroke)'''
+    from fontTools.pens.recordingPen import RecordingPen
+    rp=RecordingPen();P.draw(rp)
+    out=[];cur=[]
+    for op,args in rp.value:
+        if op=='moveTo':cur=[('moveTo',args)]
+        elif op in('closePath','endPath'):
+            # collapse short lineTos: move a short line's end onto its start
+            k=[]
+            for i,(o2,a2) in enumerate(cur):
+                if o2=='lineTo' and k:
+                    prev=k[-1][1][-1];p=a2[0]
+                    if abs(p[0]-prev[0])+abs(p[1]-prev[1])<tol:continue
+                k.append((o2,a2))
+            if len(k)>2:out+=k+[(op,args)]
+            cur=[]
+        else:cur.append((op,args))
+    Q=pathops.Path();pn=Q.getPen()
+    for op,args in out:getattr(pn,op)(*args)
+    try:Q.simplify(fix_winding=True)
+    except Exception:pass
+    return Q
+def clip_band(P,lo,hi,sh):
+    R=pathops.Path();rp=R.getPen();rp.moveTo((-5000,lo));rp.lineTo((8000,lo));rp.lineTo((8000,hi));rp.lineTo((-5000,hi));rp.closePath()
+    return pathops.op(P,R,pathops.PathOp.INTERSECTION)
+NOTCH_FAM=('k','p','kp','ky','kw','b','gb')
 def build(src,fam,sty,slant,gap,space,out):
     D=json.load(open(src));sh=math.tan(math.radians(slant))
     glyphs={};adv={};order=['.notdef','space'];cmap={32:'space'};anchors={};paths={}
@@ -52,7 +125,13 @@ def build(src,fam,sty,slant,gap,space,out):
         if '#s' in g:
             P0=P_from(v['d'],sh);SH[g.split('#')[0].replace('.','_')]=clipr(P0) if g.split('#')[0] in CLIP else P0;continue
         if g.startswith('adk_') or g in('m.pre','n.pre','ng.pre','ng.liga') or g in('koopena.liga','koopene.liga'):continue
-        add(g.replace('.','_'),(P_svg(*OVR_D[g]) if isinstance(OVR_D[g],tuple) else P_svg(OVR_D[g])) if ('Display' in fam and g in OVR_D) else P_svg('ovr/text-nyu.svg') if (g in ('nyu.liga','niu.liga')) else (clipr(P_from(v['d'],sh)) if g in CLIP else P_from(v['d'],sh)))
+        _P=(P_svg(*OVR_D[g]) if isinstance(OVR_D[g],tuple) else P_svg(OVR_D[g])) if ('Display' in fam and g in OVR_D) else P_svg('ovr/text-nyu.svg') if (g in ('nyu.liga','niu.liga')) else (clipr(P_from(v['d'],sh)) if g in CLIP else P_from(v['d'],sh))
+        if g.endswith('.liga'):
+            _P=clip_band(_P,0,910,sh)
+            on=g[:-5]
+            for vv in ('oopen','eopen','a','e','i','o','u'):
+                if on.endswith(vv):on=on[:-len(vv)];break
+        add(g.replace('.','_'),_P)
     # opening nasals (before the sign)
     for n in['m','n','ng']: add(n+'_pre',P_from(D[n+'.pre']['d'],sh))
     # closing nasals: marks centred on x=0 under the baseline
